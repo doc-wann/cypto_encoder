@@ -1,0 +1,4 @@
+NEXT_CODE=24
+CONTENT= oi meu nome é henrique :) eu tenho 20 anos e estou fazendo um codificador usando cifra de cesar :)
+CYPHER_ENCODE_TYPE=caesar
+END_ENCODE;
